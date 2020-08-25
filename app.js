@@ -19,7 +19,7 @@ var indexRoutes = require("./routes/index");
 app.set("view engine","ejs");
 app.use(express.static(__dirname + "/public"));
 app.use(bodyParser.urlencoded({extended:true}));
-mongoose.connect("mongodb+srv://Chevady:12345@cluster0.ar2sq.mongodb.net/<dbname>?retryWrites=true&w=majority", {
+mongoose.connect(process.env.DATABASEURL, {
 	useNewUrlParser:true,
 	useUnifiedTopology:true
 })
