@@ -4,17 +4,19 @@ Visit the link below to see the website:
 https://fierce-journey-60900.herokuapp.com/
 
 -Showcase my skills as a full-stack developer:
-1. Front-end technologies
+1. Front-end:
   (1) HTML
   (2) CSS
   (3) Javascript
   (4) DOM Manipulation
   (5) Bootstrap
   (6) NPM
-2. Back-end
+2. Back-end:
   (1) Node JS
   (2) MongoDB - database manipulation
-  (3) User authentications - user signup, login, and logout
-  (4) Sessions and cookies
-  (5) Deploying
+  (3) NPM
+  (4) User authentications - user signup, login, and logout
+  (5) Sessions and cookies
+  (6) Deploying
+
   
